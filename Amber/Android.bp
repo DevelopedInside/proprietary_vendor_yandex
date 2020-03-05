@@ -138,6 +138,17 @@ android_app_import {
 }
 
 android_app_import {
+	name: "qcrilmsgtunnel",
+	owner: "yandex",
+	apk: "proprietary/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk",
+	certificate: "platform",
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+}
+
+android_app_import {
 	name: "imssettings",
 	owner: "yandex",
 	apk: "proprietary/vendor/app/imssettings/imssettings.apk",
