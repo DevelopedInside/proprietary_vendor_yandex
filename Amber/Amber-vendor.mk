@@ -720,7 +720,6 @@ PRODUCT_COPY_FILES += \
     vendor/yandex/Amber/proprietary/vendor/firmware/elanfp64.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/elanfp64.mdt \
     vendor/yandex/Amber/proprietary/vendor/firmware/fs16xx_01s_mono.preset:$(TARGET_COPY_OUT_VENDOR)/firmware/fs16xx_01s_mono.preset \
     vendor/yandex/Amber/proprietary/vendor/lib/hw/activity_recognition.sdm660.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/activity_recognition.sdm660.so \
-    vendor/yandex/Amber/proprietary/vendor/lib/hw/camera.sdm660.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.sdm660.so \
     vendor/yandex/Amber/proprietary/vendor/lib/libactuator_cn3927v.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_cn3927v.so \
     vendor/yandex/Amber/proprietary/vendor/lib/libactuator_dw9714.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_dw9714.so \
     vendor/yandex/Amber/proprietary/vendor/lib/libchromatix_gc5025_a3_default_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_gc5025_a3_default_preview.so \
@@ -896,7 +895,6 @@ PRODUCT_COPY_FILES += \
     vendor/yandex/Amber/proprietary/vendor/lib/libmmcamera_hvx_grid_sum.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_hvx_grid_sum.so \
     vendor/yandex/Amber/proprietary/vendor/lib/libmmcamera_imglib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_imglib.so \
     vendor/yandex/Amber/proprietary/vendor/lib/libmmcamera_imglib_faceproc_adspstub.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_imglib_faceproc_adspstub.so \
-    vendor/yandex/Amber/proprietary/vendor/lib/libmmcamera_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_interface.so \
     vendor/yandex/Amber/proprietary/vendor/lib/libmmcamera_isp_abf48.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_abf48.so \
     vendor/yandex/Amber/proprietary/vendor/lib/libmmcamera_isp_aec_bg_stats47.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_aec_bg_stats47.so \
     vendor/yandex/Amber/proprietary/vendor/lib/libmmcamera_isp_bf_stats47.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_bf_stats47.so \
@@ -961,11 +959,8 @@ PRODUCT_COPY_FILES += \
     vendor/yandex/Amber/proprietary/vendor/lib/libmmcamera_truly_gt24c64_s5k3p8sx_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_truly_gt24c64_s5k3p8sx_eeprom.so \
     vendor/yandex/Amber/proprietary/vendor/lib/libmmcamera_truly_gt24c64_s5k3p9sx_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_truly_gt24c64_s5k3p9sx_eeprom.so \
     vendor/yandex/Amber/proprietary/vendor/lib/libmmjpeg.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmjpeg.so \
-    vendor/yandex/Amber/proprietary/vendor/lib/libmmjpeg_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmjpeg_interface.so \
-    vendor/yandex/Amber/proprietary/vendor/lib/libmmlib2d_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmlib2d_interface.so \
     vendor/yandex/Amber/proprietary/vendor/lib/libmmqjpeg_codec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmqjpeg_codec.so \
     vendor/yandex/Amber/proprietary/vendor/lib/libmmqjpegdma.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmqjpegdma.so \
-    vendor/yandex/Amber/proprietary/vendor/lib/libqomx_core.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqomx_core.so \
     vendor/yandex/Amber/proprietary/vendor/lib/libqomx_jpegdec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqomx_jpegdec.so \
     vendor/yandex/Amber/proprietary/vendor/lib/libqomx_jpegenc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqomx_jpegenc.so \
     vendor/yandex/Amber/proprietary/vendor/lib/libqomx_jpegenc_pipe.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqomx_jpegenc_pipe.so \
